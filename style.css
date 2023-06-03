@@ -1,0 +1,173 @@
+#Menusuperior{
+    
+    position: absolute;
+width: 1024px;
+height: 72px;
+left: 62px;
+top: 206px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 72px;
+
+letter-spacing: -0.025em;
+
+
+color: #FFFFFF;
+}
+
+#Arquitetura{
+    
+    position: absolute;
+width: 1024px;
+height: 28px;
+left: 62px;
+top: 298px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 28px;
+
+
+color: #FFFFFF
+
+
+
+}
+
+#menuinformativo{
+
+    position: absolute;
+    font-family: 'Inter';
+    font-weight: 50;
+    font-size: 45px;
+    line-height: 35px;
+    word-spacing: 15px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+
+color: #000000;
+}
+
+
+  
+
+
+
+#menuprincipal{ 
+
+    position: absolute;
+    width: 735px;
+    height: 161px;
+    left: 70px;
+    top: 1003px;
+    font-family: 'Inter';
+    
+}
+    
+
+
+#texto{
+    position: absolute;
+    width: 952px;
+    height: 161px;
+    left: 77px;
+    top: 1003px;
+    
+    font-family: 'Inter';
+    font-size: 21px;
+    line-height: 25px;
+
+    
+    display: flex;
+    align-items: end;
+    
+    color: #000000;
+}
+    
+
+
+#imagen1{
+    position: absolute;
+    width: 510px;
+    height: 605px;
+    left: 876px;
+    top: 781px;
+}
+
+
+#formulario{
+    text-align: center;
+}
+
+
+
+#Rectangle8{
+    
+    
+    position: absolute;
+    width: 1440px;
+    height: 638px;
+    
+    top: 1500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 270%;
+
+    text-align: center;
+
+    color: #FFFFFF;
+    background: #303030;
+    
+}
+
+
+
+
+#rectangle10{
+    position: absolute;
+width: 508px;
+height: 72px;
+left: 466px;
+top: 1661px;
+padding-left: 25px;
+background: #FFFFFF;
+border-radius: 10px;
+
+}
+
+#rectangle11{
+    position: absolute;
+width: 508px;
+height: 72px;
+left: 466px;
+top: 1795px;
+padding-left: 25px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+
+
+
+#button{
+    
+    position: absolute;
+    width: 286px;
+    height: 74px;
+    left: 577px;
+    top: 1955px;
+    border-radius: 10px;
+    font-weight: bolder;
+    background-color: #C07212;
+    color: #FFFFFF;
+    }
+
+
+
